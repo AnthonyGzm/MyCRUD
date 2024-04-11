@@ -9,7 +9,7 @@ public partial class Usuario
 
     public string? Nombre { get; set; }
 
-    public DateOnly? Fecha { get; set; }
+    public DateTime? Fecha { get; set; }
 
     public string? Clave { get; set; }
 }
